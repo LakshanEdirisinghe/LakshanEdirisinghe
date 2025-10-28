@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-![neom-anozjF6uqI0-unsplash](https://github.com/user-attachments/assets/26b06a60-a81b-4979-afc3-65b46aca1dcc)
-
 <!--
 **LakshanEdirisinghe/LakshanEdirisinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
